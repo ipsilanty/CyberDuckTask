@@ -14,5 +14,5 @@
     a. Run: php artisan tinker
     b. Run: factory(App\Employees::class, 50)->create()
   12. Make storage folder accessible from public (Run: php artisan storage:link) --For security reasons this folder is not accessible         anymore after the project has been uploaded on GitHub
-  13. Inside /public directory, copy logo folder into new storage folder created by command above --In this folder will be stored company     logo
+  13. Inside /public directory, copy logo folder into new storage folder created by command above --In logo folder is a default image for     companies and also here will be stored new logos
      
