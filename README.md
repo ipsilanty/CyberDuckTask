@@ -1,3 +1,3 @@
 "# CyberDuckTask" 
 
-Create a database locally named homestead utf8_general_ci
+  1. Create a database locally named crm utf8_general_ci
