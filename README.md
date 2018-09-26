@@ -18,6 +18,7 @@
   14. Run: php artisan serve
   
   "# Test Environment"
+  
     For running tests I suggest using sqlite and its memory database. To set it up, just add these two lines in the phpunit.xml file:
     
     "<env name="DB_CONNECTION" value="sqlite"/>"
